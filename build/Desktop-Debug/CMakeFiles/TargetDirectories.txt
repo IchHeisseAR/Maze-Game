@@ -1,0 +1,9 @@
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/Mazegame.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/install.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/Mazegame_autogen_timestamp_deps.dir
+/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/CMakeFiles/Mazegame_autogen.dir

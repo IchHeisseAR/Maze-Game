@@ -1,0 +1,59 @@
+# ninja log v6
+8068	8572	7546775571114947	Mazegame.exe	8151b5edc54cb264
+43	1436	7546775503247263	Mazegame_autogen/timestamp	a57f888be62f95fd
+43	1436	7546775503247263	Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+43	1436	7546775503247263	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/timestamp	a57f888be62f95fd
+43	1436	7546775503247263	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+1438	7609	7546775504890131	CMakeFiles/Mazegame.dir/Mazegame_autogen/mocs_compilation.cpp.obj	4d7a3fc45fbe2a8c
+1458	7823	7546775505089409	CMakeFiles/Mazegame.dir/MyRect.cpp.obj	57abf47b89b364ad
+2147	10126	7546774663624421	CMakeFiles/Mazegame.dir/Maze.cpp.obj	3c5b76b237b4fa5c
+1448	7667	7546775504962901	CMakeFiles/Mazegame.dir/main.cpp.obj	c03b230b645772c7
+1467	8068	7546775505179618	CMakeFiles/Mazegame.dir/Game.cpp.obj	c90e5c3d09f00d0a
+42	89	7536344198188699	CMakeFiles/clean.additional	baedbe210acaa455
+89	110	7536344198693375	clean	577b940aee94fbd7
+72	460	7546777014501075	Mazegame_autogen/timestamp	a57f888be62f95fd
+72	460	7546777014501075	Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+72	460	7546777014501075	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/timestamp	a57f888be62f95fd
+72	460	7546777014501075	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+462	6088	7546777018404831	CMakeFiles/Mazegame.dir/Game.cpp.obj	c90e5c3d09f00d0a
+6088	6767	7546777074665966	Mazegame.exe	8151b5edc54cb264
+63	392	7546785665312396	Mazegame_autogen/timestamp	a57f888be62f95fd
+63	392	7546785665312396	Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+63	392	7546785665312396	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/timestamp	a57f888be62f95fd
+63	392	7546785665312396	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+394	5990	7546785668672642	CMakeFiles/Mazegame.dir/MyRect.cpp.obj	57abf47b89b364ad
+5990	6884	7546785724553994	Mazegame.exe	8151b5edc54cb264
+147	2758	7547525706388112	Mazegame_autogen/timestamp	a57f888be62f95fd
+147	2758	7547525706388112	Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+147	2758	7547525706388112	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/timestamp	a57f888be62f95fd
+147	2758	7547525706388112	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+2761	11515	7547525708591028	CMakeFiles/Mazegame.dir/Mazegame_autogen/mocs_compilation.cpp.obj	4d7a3fc45fbe2a8c
+2773	11561	7547525708718644	CMakeFiles/Mazegame.dir/main.cpp.obj	c03b230b645772c7
+2785	11894	7547525708818046	CMakeFiles/Mazegame.dir/MyRect.cpp.obj	57abf47b89b364ad
+2797	12288	7547525708918264	CMakeFiles/Mazegame.dir/Game.cpp.obj	c90e5c3d09f00d0a
+12288	13076	7547525803865188	Mazegame.exe	8151b5edc54cb264
+39	334	7547534330331571	Mazegame_autogen/timestamp	a57f888be62f95fd
+39	334	7547534330331571	Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+39	334	7547534330331571	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/timestamp	a57f888be62f95fd
+39	334	7547534330331571	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+335	5677	7547534333367215	CMakeFiles/Mazegame.dir/MyRect.cpp.obj	57abf47b89b364ad
+5677	6401	7547534386786823	Mazegame.exe	8151b5edc54cb264
+156	2803	7547537611653047	Mazegame_autogen/timestamp	a57f888be62f95fd
+156	2803	7547537611653047	Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+156	2803	7547537611653047	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/timestamp	a57f888be62f95fd
+156	2803	7547537611653047	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+2818	11770	7547537614364712	CMakeFiles/Mazegame.dir/main.cpp.obj	c03b230b645772c7
+2805	11860	7547537614241381	CMakeFiles/Mazegame.dir/Mazegame_autogen/mocs_compilation.cpp.obj	4d7a3fc45fbe2a8c
+2830	12303	7547537614464756	CMakeFiles/Mazegame.dir/MyRect.cpp.obj	57abf47b89b364ad
+2844	12619	7547537614565385	CMakeFiles/Mazegame.dir/Game.cpp.obj	c90e5c3d09f00d0a
+12619	13437	7547537712345839	Mazegame.exe	8151b5edc54cb264
+549	4126	7547565641886316	Mazegame_autogen/timestamp	a57f888be62f95fd
+549	4126	7547565641886316	Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+549	4126	7547565641886316	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/timestamp	a57f888be62f95fd
+549	4126	7547565641886316	D:/QT projects/Mazegame/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Mazegame_autogen/mocs_compilation.cpp	a57f888be62f95fd
+4218	13108	7547565645008208	CMakeFiles/Mazegame.dir/main.cpp.obj	c03b230b645772c7
+4242	13175	7547565645208222	CMakeFiles/Mazegame.dir/Maze.cpp.obj	3c5b76b237b4fa5c
+4128	13577	7547565644134952	CMakeFiles/Mazegame.dir/Mazegame_autogen/mocs_compilation.cpp.obj	4d7a3fc45fbe2a8c
+4230	13793	7547565645108177	CMakeFiles/Mazegame.dir/MyRect.cpp.obj	57abf47b89b364ad
+4255	14102	7547565645410624	CMakeFiles/Mazegame.dir/Game.cpp.obj	c90e5c3d09f00d0a
+14102	15435	7547565743868056	Mazegame.exe	8151b5edc54cb264

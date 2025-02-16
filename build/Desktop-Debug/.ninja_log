@@ -1,0 +1,43 @@
+# ninja log v5
+7	664	1733233203733807289	Mazegame_autogen/timestamp	4334d5365145aed2
+7	664	1733233203733807289	Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+7	664	1733233203733807289	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/timestamp	4334d5365145aed2
+7	664	1733233203733807289	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+667	4352	1733233207425799394	CMakeFiles/Mazegame.dir/Maze.cpp.o	8c991cfe2f36506
+666	4891	1733233207964948128	CMakeFiles/Mazegame.dir/MyRect.cpp.o	a4cd8183098b900b
+667	5080	1733233208154000821	CMakeFiles/Mazegame.dir/Game.cpp.o	e8f7dec51ad50edc
+666	5833	1733233208908211543	CMakeFiles/Mazegame.dir/main.cpp.o	6162bc35dfe492d
+665	5900	1733233208976230548	CMakeFiles/Mazegame.dir/Mazegame_autogen/mocs_compilation.cpp.o	164ded433a259b82
+5900	6340	1733233209411353524	Mazegame	4eff86e91d835e87
+12	62	1733297727118152985	Mazegame_autogen/timestamp	4334d5365145aed2
+12	62	1733297727118152985	Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+12	62	1733297727118152985	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/timestamp	4334d5365145aed2
+12	62	1733297727118152985	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+65	3395	1733297730534053130	CMakeFiles/Mazegame.dir/Maze.cpp.o	8c991cfe2f36506
+65	3917	1733297731057037291	CMakeFiles/Mazegame.dir/Game.cpp.o	e8f7dec51ad50edc
+3917	4356	1733297731492023897	Mazegame	4eff86e91d835e87
+9	42	1733297743335624495	Mazegame_autogen/timestamp	4334d5365145aed2
+9	42	1733297743335624495	Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+9	42	1733297743335624495	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/timestamp	4334d5365145aed2
+9	42	1733297743335624495	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+45	3524	1733297746884493295	CMakeFiles/Mazegame.dir/Game.cpp.o	e8f7dec51ad50edc
+3524	3940	1733297747297477716	Mazegame	4eff86e91d835e87
+10	34	1733297873878690332	Mazegame_autogen/timestamp	4334d5365145aed2
+10	34	1733297873878690332	Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+10	34	1733297873878690332	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/timestamp	4334d5365145aed2
+10	34	1733297873878690332	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+37	2792	1733298009602073514	CMakeFiles/Mazegame.dir/Game.cpp.o	e8f7dec51ad50edc
+2792	3194	1733298010001029573	Mazegame	4eff86e91d835e87
+6	34	1733302692919189550	Mazegame_autogen/timestamp	4334d5365145aed2
+6	34	1733302692919189550	Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+6	34	1733302692919189550	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/timestamp	4334d5365145aed2
+6	34	1733302692919189550	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+37	3299	1733302697813235414	CMakeFiles/Mazegame.dir/Maze.cpp.o	8c991cfe2f36506
+38	3726	1733302698239239394	CMakeFiles/Mazegame.dir/Game.cpp.o	e8f7dec51ad50edc
+3726	4137	1733302698648243213	Mazegame	4eff86e91d835e87
+11	71	1733314750114918994	Mazegame_autogen/timestamp	4334d5365145aed2
+11	71	1733314750114918994	Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+11	71	1733314750114918994	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/timestamp	4334d5365145aed2
+11	71	1733314750114918994	/home/dev_ar/University/3rd Semester/DSA/Final Project/Mazegame (With Comments)/build/Desktop-Debug/Mazegame_autogen/mocs_compilation.cpp	4334d5365145aed2
+78	3580	1733314753727799809	CMakeFiles/Mazegame.dir/Game.cpp.o	e8f7dec51ad50edc
+3580	4043	1733314754186911567	Mazegame	4eff86e91d835e87
